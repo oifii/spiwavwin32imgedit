@@ -1,0 +1,1 @@
+start spiwavwin32imgedit.exe 600 300 700 500 150
