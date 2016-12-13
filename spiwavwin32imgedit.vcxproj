@@ -78,6 +78,7 @@
   <ItemGroup>
     <None Include="ReadMe.txt" />
     <None Include="small.ico" />
+    <None Include="spi.licenseheader" />
     <None Include="spiwavwin32imgedit.ico" />
   </ItemGroup>
   <ItemGroup>
